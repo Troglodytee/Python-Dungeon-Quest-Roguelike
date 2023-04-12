@@ -16,9 +16,9 @@ This is a retro console style roguelike. Battles are turn-based.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
-- Python time library
+- Python `tkinter` library
+- Python `random` library
+- Python `time` library
 ## Game Captures
 ![Game capture 1](./preview/images/1.jpg)
 
